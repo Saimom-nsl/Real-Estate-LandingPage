@@ -1,0 +1,182 @@
+{
+  "Header": {
+    "title": "Next Real Estate",
+    "paragraph": "Next is the name of hope and inspiration in the real estate sector. Since the start of the company in 2006, Next real estate has guaranteed the satisfaction of the clients. The specialty of Next real estate is producing powerful construction by utilizing high-quality materials from its own concerns."
+  },
+  "About": {
+    "paragraph": "At Next Real Estate, we pride ourselves on providing exceptional service and unparalleled expertise in the real estate industry. Our team is committed to helping clients find their dream homes, investment properties, and commercial spaces, ensuring a smooth and seamless experience every step of the way. With years of experience and an extensive network, we bring knowledge, passion, and dedication to each client interaction, tailoring our approach to meet individual needs and aspirations.",
+    "Why": [
+      "Experienced Team",
+      "Personalized Service",
+      "Comprehensive Support"
+    ],
+    "Why2": [
+      "Trusted Network",
+      "Commitment to Excellence",
+      "Expert Consultation"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Residential Sales",
+      "text": "Find your dream home with our extensive listings of residential properties. We specialize in matching buyers with the perfect home in the neighborhood they love."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Commercial Properties",
+      "text": "Explore our selection of commercial real estate, ideal for businesses seeking office space, retail locations, or investment properties in prime areas."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Property Management",
+      "text": "Let us handle the day-to-day operations of your property. Our property management services ensure your assets are maintained and tenants are satisfied."
+    },
+    {
+      "icon": "fa fa-key",
+      "name": "Rental Services",
+      "text": "Looking to rent? We offer a wide range of rental properties, from apartments to single-family homes, all maintained to the highest standards."
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Relocation Services",
+      "text": "Moving to a new city? Our relocation services make it easy. We help you find a home that meets your needs and guide you through the entire process."
+    },
+    {
+      "icon": "fa fa-home",
+      "name": "Investment Consulting",
+      "text": "Maximize your real estate investments with our expert consulting services. We provide insights, market analysis, and guidance for profitable investments."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"They helped me find the perfect home in the neighborhood I loved and guided me through every step of the process.\"",
+      "name": "Sarah Williams"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I couldn’t have asked for a better team to help me secure a great investment property.\"",
+      "name": "Michael Chen"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The property management service has been excellent! I’m confident my rental properties are in good hands and well-maintained.\"",
+      "name": "Amanda Devis"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Moving from out of state was stressful, but Next made it easy. They helped me find a home and get settled quickly. Highly recommend!\"",
+      "name": "Daniel Martin"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"From start to finish, the rental process was smooth and seamless. I found a great apartment that fit my needs perfectly.\"",
+      "name": "Emily Rodriguez"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Their investment consulting service helped me make smart real estate decisions. I’ve seen a positive return on my investments thanks to their guidance.\"",
+      "name": "Thomas Lee"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Extensive Listings",
+      "text": "Access a wide variety of residential, commercial, and investment properties in top locations."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Market Insights ",
+      "text": "Stay informed with up-to-date market trends and property valuations to make smarter investment decisions."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Property Management",
+      "text": "We offer comprehensive management services for rental properties, helping you maximize your return on investment."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Expert Consultation",
+      "text": "Our agents provide personalized consultations to help you navigate the complexities of buying or selling a property."
+    }
+  ]
+}
